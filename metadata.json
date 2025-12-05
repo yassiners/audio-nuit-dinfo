@@ -1,0 +1,7 @@
+{
+  "name": "National Audio Challenge AI",
+  "description": "An intelligent audio processing hub that formats, renames, analyzes, and summarizes audio files using local logic and Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
